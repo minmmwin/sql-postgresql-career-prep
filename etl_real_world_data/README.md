@@ -34,7 +34,7 @@ Notes:
 
 ```text
 data/
-├── raw/        # Original CSV files (filtered subset)
+├── raw/        # Filtered raw CSV subsets used for learning
 ├── cleaned/    # Optional cleaned exports
 
 python/
@@ -45,4 +45,12 @@ sql/
 ├── 02_import_data.sql             # import data
 ├── 03_analysis_queries.sql        # Aggregations & insights
 ├── 04_create_final_tables.sql     # Model data and & final table
-├── 05_analysis_queries.sql        # Analyss queries & review 
+├── 05_analysis_queries.sql        # Analyss queries & review
+
+```
+
+## Dataset Notes
+
+- Original NYC 311 export files are large and are not uploaded to GitHub
+- A filtered subset version was used for SQL learning and performance
+- Subset datasets were created from the December 2025 NYC 311 export
