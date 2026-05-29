@@ -1,4 +1,10 @@
+# Analysis Project 1
 
+This project uses the cleaned and modeled NYC 311 dataset created in the
+`etl_real_world_data` project.
+
+The goal is to practice analytical SQL by answering business-style questions,
+performing aggregations, calculating percentages, and creating summary reports.
 ﻿## Folder Structure
 
 ```
