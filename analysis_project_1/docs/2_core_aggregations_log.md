@@ -1,4 +1,4 @@
-﻿# Week 4 – Day 2: Core Aggregations
+﻿# Core Aggregations
 
 ## Goal
 Build foundational analytical queries that answer key business questions from the project plan using the cleaned dataset.
