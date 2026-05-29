@@ -1,4 +1,4 @@
-﻿# Week 4 – Day 3: Advanced Analysis
+﻿# Advanced Analysis
 
 ## Goal
 Enhance the analysis with more advanced SQL techniques including window functions, ranking, and time-based comparisons.
