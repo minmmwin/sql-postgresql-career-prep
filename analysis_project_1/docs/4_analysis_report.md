@@ -1,4 +1,4 @@
-﻿# Week 4 — Analysis Report (NYC 311)
+﻿# Analysis Report (NYC 311)
 
 ## Overview
 This report analyzes NYC 311 service request data to identify patterns in complaint volume, geographic distribution, and operational performance.
