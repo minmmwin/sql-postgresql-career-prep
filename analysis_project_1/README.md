@@ -5,7 +5,8 @@ This project uses the cleaned and modeled NYC 311 dataset created in the
 
 The goal is to practice analytical SQL by answering business-style questions,
 performing aggregations, calculating percentages, and creating summary reports.
-﻿## Folder Structure
+﻿
+## Folder Structure
 
 ```
 analysis_project_1/
